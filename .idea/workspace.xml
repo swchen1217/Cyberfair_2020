@@ -25,6 +25,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -55,6 +56,7 @@
       <updated>1568953872336</updated>
       <workItem from="1568953878232" duration="1403000" />
       <workItem from="1569298583693" duration="1976000" />
+      <workItem from="1569384483672" duration="2907000" />
     </task>
     <servers />
   </component>
