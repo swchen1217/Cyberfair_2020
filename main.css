@@ -2,6 +2,33 @@ body{
     margin:0px;
     padding:0px;
     //background:#fff url(http://8.blog.xuite.net/8/f/e/9/23109240/blog_1931534/txt/81207055/0.jpg) center center fixed no-repeat;
-    background-size: cover;
+    //background-size: cover;
     font-family: arial,"Microsoft JhengHei","微軟正黑體",sans-serif !important;
+    background-color: #e5e5e5;
+}
+.navbar-nav li > a:hover, #topheader .navbar-nav li > a:focus {
+    background-color: #999;
+    color: #fff;
+    line-height: 40px;
+}
+
+.navbar-nav li.active > a {
+    background-color: #fff;
+    line-height: 40px;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color: #f2f2f2;
+    line-height: 40px;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.navbar-dark .navbar-nav .show > .nav-link, .navbar-dark .navbar-nav .active > .nav-link, .navbar-dark .navbar-nav .nav-link.show, .navbar-dark .navbar-nav .nav-link.active{
+    color: #000000;
+    line-height: 40px;
+}
+
+.navbar-dark .navbar-brand{
+    line-height: 40px;
 }
